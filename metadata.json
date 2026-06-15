@@ -1,0 +1,6 @@
+{
+  "name": "Minecraft Survival 3D",
+  "description": "A 3D first-person sandbox survival game featuring procedurally generated terrain, block breaking and placement, a survival inventory, tools crafting, hunger, health, and zombie enemies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
